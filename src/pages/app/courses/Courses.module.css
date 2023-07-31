@@ -34,10 +34,12 @@
 
 .courses {
     display: flex;
-   
     flex-wrap: wrap;
     justify-content: space-evenly;
    
+}
+.anchorTag{
+    text-decoration: none;
 }
 
 .courses::-webkit-scrollbar {
